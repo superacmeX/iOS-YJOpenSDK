@@ -1,1 +1,6 @@
-0.5.0
+* 0.5.0
+
+* 0.9.0
+    * 新增 YJOpenAccountForgotPasswordTask
+    * 新增 重置密码接口 resetPassword
+    * 新增 三方登录接口 thirdPartyLogin
