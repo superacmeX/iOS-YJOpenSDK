@@ -4,3 +4,5 @@
     * 新增 YJOpenAccountForgotPasswordTask
     * 新增 重置密码接口 resetPassword
     * 新增 三方登录接口 thirdPartyLogin
+* 0.9.2
+    * 更新RMPlayer
