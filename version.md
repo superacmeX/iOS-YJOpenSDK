@@ -6,3 +6,6 @@
     * 新增 三方登录接口 thirdPartyLogin
 * 0.9.2
     * 更新RMPlayer
+* 0.9.3
+    * 更新RMPlayer
+    * 新增账号注销接口 deregister

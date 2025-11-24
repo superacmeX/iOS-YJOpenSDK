@@ -19,3 +19,8 @@ YJOpenSDK对应release和demo
 详情见文档 8.2章节
 
 Demo DeviceListViewController.preparePlayer()
+
+# Release 0.9.3
+1. 更新RMPlayer
+    a. 适配新的RMPlayer SDK, 2.4.0-rc4, 增加vod es流下载，文件下载相关示例代码 CloudVodViewController.swift
+2. 新增账号注销接口 deregister(), 使用方法见Demo：UserController
