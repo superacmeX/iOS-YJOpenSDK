@@ -24,3 +24,6 @@ Demo DeviceListViewController.preparePlayer()
 1. 更新RMPlayer
     a. 适配新的RMPlayer SDK, 2.4.0-rc4, 增加vod es流下载，文件下载相关示例代码 CloudVodViewController.swift
 2. 新增账号注销接口 deregister(), 使用方法见Demo：UserController
+
+# Release 0.9.4
+1. 新增账号注册并登录接口 registerAndLogin, 使用方法加Demo：RegisterViewController
