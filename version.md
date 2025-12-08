@@ -11,3 +11,5 @@
     * 新增账号注销接口 deregister
 * 0.9.4
     * 新增账号注册并登录接口 registerAndLogin
+* 0.9.5
+    * Accept Language: cn -> zh-CN
