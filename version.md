@@ -13,3 +13,5 @@
     * 新增账号注册并登录接口 registerAndLogin
 * 0.9.5
     * Accept Language: cn -> zh-CN
+* 0.9.6
+    * 新增AIAssistant

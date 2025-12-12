@@ -28,5 +28,8 @@ Demo DeviceListViewController.preparePlayer()
 # Release 0.9.4
 1. 新增账号注册并登录接口 registerAndLogin, 使用方法加Demo：RegisterViewController
 
-# Release 0.9.4
+# Release 0.9.5
 1. Accept Language: cn -> zh-CN
+
+# Release 0.9.6
+1. 新增AIAssistant
