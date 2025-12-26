@@ -31,6 +31,12 @@ Demo DeviceListViewController.preparePlayer()
 # Release 0.9.4
 1. Accept Language: cn -> zh-CN
 
+# Release 0.9.6
+1. 新增AIAssistant
+
 # Release 0.9.7
 1. 适配业务组件小智，开放YJVerifyInfo的country
 2. demo新增小智的使用接入
+
+# Release 0.9.8
+1. 更新rmp版本至2.5.0-rc.7，增加设备摄像头状态通知示例代码    

@@ -13,5 +13,9 @@
     * 新增账号注册并登录接口 registerAndLogin
 * 0.9.5
     * Accept Language: cn -> zh-CN
+* 0.9.6
+    * 新增AIAssistant
 * 0.9.7
     * 适配业务组件小智，开放YJVerifyInfo的country
+* 0.9.8
+    * 更新RMPlayer
