@@ -15,3 +15,5 @@
     * Accept Language: cn -> zh-CN
 * 0.9.6
     * 新增AIAssistant
+* 0.9.8
+    * 更新RMPlayer

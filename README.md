@@ -33,3 +33,6 @@ Demo DeviceListViewController.preparePlayer()
 
 # Release 0.9.6
 1. 新增AIAssistant
+
+# Release 0.9.8
+1. 更新rmp版本至2.5.0-rc.7，增加设备摄像头状态通知示例代码    
