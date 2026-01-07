@@ -19,3 +19,5 @@
     * 适配业务组件小智，开放YJVerifyInfo的country
 * 0.9.8
     * 更新RMPlayer
+* 0.9.11
+    * 更新RMPlayer
