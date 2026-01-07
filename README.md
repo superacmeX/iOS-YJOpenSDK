@@ -39,4 +39,7 @@ Demo DeviceListViewController.preparePlayer()
 2. demo新增小智的使用接入
 
 # Release 0.9.8
-1. 更新rmp版本至2.5.0-rc.7，增加设备摄像头状态通知示例代码    
+1. 更新rmp版本至2.5.0-rc.7，增加设备摄像头状态通知示例代码  
+
+# Release 0.9.11
+1. 更新rmp版本 
