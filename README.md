@@ -43,3 +43,6 @@ Demo DeviceListViewController.preparePlayer()
 
 # Release 0.9.11
 1. 更新rmp版本 
+
+# Release 0.9.12
+1. 更新SDK至 0.9.12

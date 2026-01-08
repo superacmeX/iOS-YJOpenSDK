@@ -21,3 +21,6 @@
     * 更新RMPlayer
 * 0.9.11
     * 更新RMPlayer
+
+* 0.9.12
+    * 更新SDK
