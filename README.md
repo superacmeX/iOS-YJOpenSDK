@@ -46,3 +46,6 @@ Demo DeviceListViewController.preparePlayer()
 
 # Release 0.9.12
 1. 更新SDK至 0.9.12
+
+# Release 0.9.13
+1. 更新SDK至 0.9.13
