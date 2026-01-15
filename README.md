@@ -49,3 +49,6 @@ Demo DeviceListViewController.preparePlayer()
 
 # Release 0.9.13
 1. 更新RMPlayer到v2.6.0-rc.1_release_a4948562_20260109
+
+# Release 0.9.14
+1. 更新RMPlayer到v2.6.0-rc.2_release_8400c4f7_20260114
