@@ -30,3 +30,9 @@
 
 * 0.9.14
     * 更新RMPlayer
+    
+* 0.9.15
+    * 支持最新iOS26和最新xcode 下获取 WiFi名称
+    
+* 0.9.16
+    * 更新RMPlayer

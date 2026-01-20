@@ -52,3 +52,9 @@ Demo DeviceListViewController.preparePlayer()
 
 # Release 0.9.14
 1. 更新RMPlayer到v2.6.0-rc.2_release_8400c4f7_20260114
+
+# Release 0.9.15
+1. 支持最新iOS26和最新xcode 下获取 WiFi名称
+
+# Release 0.9.16
+1. 更新RMPlayer至v2.6.0-rc.4_release_5cfd0acc_20260120
