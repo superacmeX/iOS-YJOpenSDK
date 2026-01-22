@@ -58,3 +58,36 @@ Demo DeviceListViewController.preparePlayer()
 
 # Release 0.9.16
 1. 更新RMPlayer至v2.6.0-rc.4_release_5cfd0acc_20260120
+
+# Release 0.9.17
+1. 更新AIAssistant，版本号0.1.6，支持不同xcode版本进行编译运行
+
+参考demo工程，需要设置如下pod脚本，以及将小智依赖的三方库固定版本号，见demo工程的Podfile
+```
+pod 'YJSAIAssistant', '0.1.6'
+
+# 神眸小智需要依赖的三方组件，版本号需要对应固定
+pod 'SpeechEngineToB', '0.0.12'
+pod 'TTNetworkManager', '5.2.210.21'
+pod 'FSCalendar', '2.8.4'
+pod 'MJRefresh', '3.7.9'
+pod 'EmptyDataSet-Swift', '5.0.0'
+pod 'CocoaMQTT', '2.1.6'
+pod 'MqttCocoaAsyncSocket', '1.0.8'
+pod 'SnapKit', '5.6.0'
+pod 'SwiftMessages', '9.0.6'
+pod 'IQKeyboardManagerSwift', '6.5.12'
+pod 'Kingfisher', '6.3.1'
+
+ post_install do |installer|
+   installer.pods_project.targets.each do |target|
+     target.build_configurations.each do |config|
+       config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '13.0'
+       # 解决SDK的符号丢失问题
+       config.build_settings['BUILD_LIBRARY_FOR_DISTRIBUTION'] = 'YES'
+       # 解决本次遇到的 Sandbox rsync 报错
+       config.build_settings['ENABLE_USER_SCRIPT_SANDBOXING'] = 'NO'
+     end
+   end
+ end
+```
