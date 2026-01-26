@@ -41,3 +41,5 @@
     * 更新支持不同版本xcode运行AIAssistant
     * AIAssistant支持换肤色
     * AIAssistant支持我想要气泡能力
+* 0.9.19
+    * 更新RMPlayer

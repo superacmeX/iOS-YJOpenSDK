@@ -106,3 +106,6 @@ YJSAIAssistantSDK.default.setTheme(aitheme)
 ```
 
 3. AIAssistant支持我想要气泡能力
+
+# Release 0.9.19
+1. 视频通话模式：优化手机camera开关预览速度
