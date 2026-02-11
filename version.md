@@ -43,3 +43,6 @@
     * AIAssistant支持我想要气泡能力
 * 0.9.19
     * 更新RMPlayer
+
+* 0.9.21
+    * 更新SDK
