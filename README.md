@@ -109,3 +109,6 @@ YJSAIAssistantSDK.default.setTheme(aitheme)
 
 # Release 0.9.19
 1. 视频通话模式：优化手机camera开关预览速度
+
+# Release 0.9.21
+1. 更新SDK至 0.9.21
