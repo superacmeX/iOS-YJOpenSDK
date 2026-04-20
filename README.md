@@ -115,3 +115,6 @@ YJSAIAssistantSDK.default.setTheme(aitheme)
 
 # Release 0.9.23
 1. 更新RMPlayer至v2.7.0-rc.1_release_14bdbcf1_20260225
+
+# Release 0.9.29
+1. 更新SDK至 0.9.29
