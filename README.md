@@ -118,3 +118,6 @@ YJSAIAssistantSDK.default.setTheme(aitheme)
 
 # Release 0.9.29
 1. 更新SDK至 0.9.29
+
+# Release 0.9.31
+1. 新增设备camera控制接口
